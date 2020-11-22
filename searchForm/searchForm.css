@@ -1,0 +1,9 @@
+.searchBar {
+    background-color: darkgrey;
+    padding: 10px;
+}
+  
+.filterBar {
+    background-color: lightgrey;
+    padding: 10px;
+}
